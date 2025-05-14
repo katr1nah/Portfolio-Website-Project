@@ -1,5 +1,5 @@
 ---
-title: "Marketing Analytics"
+title: "Projects"
 listing: 
   contents: listings
   type: grid
@@ -8,15 +8,16 @@ listing:
     - "index desc"
 ---
 
-Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.
-
-Whether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies.
+Below are selected projects that showcase my knowledge in applying software such as RStudio and GitHub. These projects reflect my ability to use these tools to leverage tools for data analysis, reporting and creating insights.
 
 ## What You’ll Find
 
-- **Campaign Performance Analysis:** Evaluating the effectiveness of digital marketing efforts using data.
-- **Data Visualization:** Turning raw datasets into intuitive dashboards and reports.
-- **Marketing Mix & Attribution:** Exploring how different channels contribute to success.
-- **Customer & Market Insights:** Using analytics to better understand user behavior and optimize experiences.
+### RStudio Projects
 
----
+-   ***Application of Data Wrangling with Tidyverse in R:*** In this project, I worked with R packages such as tidyverse, and datasets such as "flights", "airquality", and "income". I had to wrangle the data from the data sets and visualize it.
+[View my Project](https://github.com/katr1nah/Application-Assignment-for-R-Data-Types)
+
+-   ***Group Project Using RStudio:*** In this project, I worked with my team to wrangle data and visualize it in a revealjs presentation. Our topic was on Consumer's Expectations for Hygiene Standards.
+[View my Project](https://github.com/Drewskiey11/Website-Project)
+
+------------------------------------------------------------------------
