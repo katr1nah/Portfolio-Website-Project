@@ -16,40 +16,32 @@ You can view a PDF version of my résumé [here](resume/Resume.pdf).
 
 # Professional Summary
 
-Results-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.
+I'm a third year Marketing student at Cal Poly Pomona. With my degree, I hope to work in promotions, specifically concert promotions. I'm interested in creating immersive brand experiences through concerts and music events. I am currently working for the City of San Dimas in their Parks and Recreation Department.
 
-# Technical Skills
+# Skills
 
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools
+- **Programming Languages:** R 
+- **Productivity Tools:** Microsoft Office, Canva, Google Docs, Google Slides, Google Drive 
+- **Communication**
+- **Trained in first aid**
+- **Team Work**
+- **Customer Service**
 
 # Education
 
 | Degree                             | Year                          | College / Department                 | Institution         |
 | ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
-| [Your Degree]                     | [Start – Graduation Year]     | [Your College or Department]        | [Your University]   |
-| [Previous Degree or Certification] | [Start – End Year]            | [Your College or Department]        | [Your University]   |
+| As-T Business Administration       | 2022 – 2024                   | Business Division                    | Mt. San Antonio College |
+| Bachelor in Science Business Administration - Marketing | 2024 - Expected Graduate: 2026| Singelyn Graduate School of Business        | Cal Poly Pomona |
 
 # Work Experience
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+### Recreation Leader, City of San Dimas: Parks and Recreation  
+*June 2024 - Present*
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Responsibility or accomplishment #3]  
-- [Technical tools, collaboration, or outcomes]  
-- [Any metrics, impacts, or stakeholder involvement]
-
----
-
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
-
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Team leadership, training, or development]  
-- [Projects involving marketing, data, or web technologies]  
-- [Toolset used or strategies implemented]
+- Responsible for planning, organizing, supervising.
+- Provide public engagement and customer service.
+- Coordinated and collaborated with other leaders.
+- Worked on community programs.
 
 ---
