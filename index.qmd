@@ -1,26 +1,35 @@
 ---
-title: "Hi, I'm [Your Name Here]"
+title: "Katrina Hirezi"
+about: 
+  template: jolla
+  image-shape: rounded
+format: 
+  dashboard:
+    theme: pulse
+    orientation: columns
+    layout:
+      sidebar: true
+editor: visual
 ---
-
 
 ::: {.columns}
 ::: {.column width="30%"}
-![](https://placehold.co/530x530?text=images/headshot.jpg){width=100% style="border-radius: 50%;"}
+![](images/profile.jpg){width=100% style="border-radius: 50%;"}
+
 :::
 ::: {.column width="70%" style="padding-left: 3rem;"}
-I'm a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights.
+I'm a third year Marketing student at Cal Poly Pomona. With my degree, I hope to work in promotions, specifically concert promotions. I'm interested in creating immersive brand experiences through concerts and music events. 
 :::
 :::
 
 ## About Me
 
-I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institution].
-
+I will hold a <span class="highlight">[Bachelor of Science in Business Administration with a focus in Marketing Management]</span> from [Cal Poly Pomona]. I plan on graduating in in the Spring of 2026. I computer literacy in Microsoft Office, strong communication skills, project management skills and research skills. I currently work for the City of San Dimas in their Parks and Recreation Department as as a Recreation Leader. There I am tasked with public engagement, team coordination and collaboration, as well as creating fun experiences for the community. 
 
 
 ## Let's Connect
 
-You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can [email me](katrinahz0149@gmail.com) or connect with me on  [LinkedIn](https://www.linkedin.com/in/katrina-hirezi-b8a80527a/details/interests/?detailScreenTabIndex=0).
 
 ---
 
